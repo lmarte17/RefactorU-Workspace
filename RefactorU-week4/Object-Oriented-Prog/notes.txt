@@ -1,0 +1,16 @@
+OOP is a model for programming based on classes and objects
+
+classes are like blueprints for objects
+
+objects are instances of the class
+
+in JS, the prototype is something that belongs to all functions and objects
+
+
+// make a constructor for breakfast cereals
+// name=> string
+// sweetness => number
+// crunchFactor => number
+// mascot => string
+
+function =
